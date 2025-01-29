@@ -1,4 +1,7 @@
-streamlit
+pandera
 pandas
+streamlit
+numpy
 plotly
-st-aggrid
+pydeck
+streamlit-aggrid
